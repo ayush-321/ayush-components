@@ -112,6 +112,9 @@ hr {
     height: 5rem;
 }
 
+.section .container .item{
+    text-align: center;
+}
 
 .ow {
     background-color: var(--off-white);
