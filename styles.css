@@ -92,6 +92,7 @@ hr {
 
 .hero .hero-heading {
     padding-top: 1rem;
+    text-align: center;
     color: var(--dark-gray);
 }
 
@@ -110,6 +111,7 @@ hr {
 .section .icon-size {
     height: 5rem;
 }
+
 
 .ow {
     background-color: var(--off-white);
